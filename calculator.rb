@@ -1,2 +1,2 @@
 # Add your variables here
-var 
+var first_number = 1
